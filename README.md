@@ -1,2 +1,2 @@
 # Nigeria-Bank
-Money transfer classifyer
+Money transfer classifier
